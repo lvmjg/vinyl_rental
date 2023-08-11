@@ -1,0 +1,31 @@
+{
+    "vinyls":[
+       {
+          "vinyl_info":{
+             "title":"Kiss",
+             "artist":"The Kiss",
+             "genre":"Rock",
+             "year":"1974"
+          },
+          "vinyl_state":{
+             "state":"Nowa",
+             "rating":4.5
+          },
+          "vinyl_reserve_info":{
+             "basePrice":15,
+             "reservation_end":"2022-09-11"
+          },
+          "vinyl_additional_info":{
+             "description":"1. Strutter\n2. Nothin' to Lose\n3. Firehouse\n4. Cold Gin\n5. Let Me Know\n6. Kissin' Time\n7. Deuce\n8. Love Theme from Kiss\n9. 100,000 Years\n10. Black Diamond",
+             "comments":[
+                {
+                   "user":"Marek",
+                   "description":"Super płyta",
+                   "rating":4,
+                   "posted":"2022-09-11"
+                }
+             ]
+          }
+       }
+    ]
+ }
